@@ -1,7 +1,4 @@
----
-title: 'Project documentation template'
-disqus: hackmd
----
+
 
 TCP server/client chat
 ===
